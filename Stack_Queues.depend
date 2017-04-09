@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\ollyd\desktop\code\cpp\stack_queues\main.cpp
+	<iostream>
+
+1474612955 source:c:\users\ollyd\desktop\code\cpp\stack_queues\src\queue.cpp
+	"queue.h"
+
+1474612955 c:\users\ollyd\desktop\code\cpp\stack_queues\include\queue.h
+
+1474612936 source:c:\users\ollyd\desktop\code\cpp\stack_queues\src\stack.cpp
+	"stack.h"
+
+1474612936 c:\users\ollyd\desktop\code\cpp\stack_queues\include\stack.h
+
+1474614537 source:c:\users\ollyd\desktop\code\cpp\stack_queues\src\intarrays.cpp
+	"intArrays.h"
+
+1474614594 c:\users\ollyd\desktop\code\cpp\stack_queues\include\intarrays.h
+
